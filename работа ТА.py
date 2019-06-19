@@ -71,3 +71,5 @@ kut1 = Cat(m);
 kut1.info();
 kut1.womencat();
 kut1.mencat();
+import os
+os.system("pause")
